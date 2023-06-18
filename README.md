@@ -1,9 +1,6 @@
 # K-Means Clustering
 
 ![K-Means Clustering](https://upload.wikimedia.org/wikipedia/commons/e/ea/K-means_convergence.gif)
-
-This is a README file explaining the concept of K-Means Clustering, including problem statement, mathematical formulation, and the algorithm.
-
 ## Problem Statement
 
 K-Means Clustering is an unsupervised machine learning algorithm used to partition a dataset into groups or clusters based on their similarity. The goal is to divide the data points into k distinct clusters in such a way that the within-cluster variation is minimized and the between-cluster variation is maximized.
