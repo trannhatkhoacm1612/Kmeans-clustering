@@ -17,7 +17,7 @@ The mathematical formulation of K-Means Clustering involves the following elemen
 
 - **Objective Function**: The objective of K-Means Clustering is to minimize the following objective function:
 
-      J = ∑_{i=1}^{k} ∑_{x ∈ S_i} ‖ x - c_i ‖^2
+      J = ∑_{i=1}^{k} ∑_{x ∈ S_i} \| x - c_i \|^2
 
   Here, ‖ · ‖ represents the Euclidean distance between a data point and a cluster center.
 
